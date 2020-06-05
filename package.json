@@ -1,0 +1,19 @@
+{
+  "name": "browser-package-version",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Thomas",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metatick/browser-package-version.git"
+  },
+  "bugs": {
+    "url": "https://github.com/metatick/browser-package-version/issues"
+  },
+  "homepage": "https://github.com/metatick/browser-package-version#readme",
+  "description": ""
+}
