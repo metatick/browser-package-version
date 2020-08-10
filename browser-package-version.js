@@ -17,7 +17,7 @@ class BrowserPackageVersion{
         if(!element){
             element = document.createElement('meta');
             element.setAttribute('name', `${this.name}-version`);
-            document.querySelector('head').appendChild(element);
+            document.querySelector('body').appendChild(element);
             element = this.element();
         }
         element.setAttribute('content', version);
